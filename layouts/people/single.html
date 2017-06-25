@@ -1,0 +1,68 @@
+{{ partial "header.html" . }}
+<div class="container">
+
+  <!--Profile Picture-->
+  {{ if .Params.headshot }}
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+      <img src="{{ .Params.headshot | absURL }}" class="img-responsive center-block">
+    </div>
+  </div>
+  {{ end }}
+
+  <!--Profile Information-->
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+      <h1>{{ .Title }}</h1>
+      {{ if .Params.role }}
+      <h3>{{ .Params.role }}</h3>
+      {{ end }}
+    </div>
+  </div>
+
+  <!--Short Bio-->
+  {{ if .Content }}
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+      {{ .Content }}
+    </div>
+  </div>
+  {{ end}}
+
+  <!--Save name as we enter other scopes-->
+  {{ $.Scratch.Add "name" .Title }}
+
+  <!--Publications-->
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+      <h2>Publications</h2>
+    </div>
+  </div>
+  {{ range where .Site.Pages "Section" "publications" }}
+  {{ if in .Params.authors ($.Scratch.Get "name") }}
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </div>
+  </div>
+  {{ end }}
+  {{ end }}
+
+  <!--Projects-->
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+      <h2>Projects</h2>
+    </div>
+  </div>
+  {{ range where .Site.Pages "Section" "projects" }}
+  {{ if in .Params.contributors ($.Scratch.Get "name") }}
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </div>
+  </div>
+  {{ end }}
+  {{ end }}
+
+</div>
+{{ partial "footer.html" . }}

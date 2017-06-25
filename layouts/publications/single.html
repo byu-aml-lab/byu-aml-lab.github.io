@@ -1,0 +1,42 @@
+{{ partial "header.html" . }}
+<div class="container">
+
+  <!--Paper Info-->
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+      <h1>{{ .Title }}</h1>
+    </div>
+  </div>
+
+  <!--Authors-->
+  {{ range where .Site.Pages "Section" "people" }}
+  {{ $.Scratch.Set .Title .Permalink }}
+  {{ end }}
+  {{ range .Params.authors }}
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+      {{ if $.Scratch.Get . }}
+      <a href="{{ $.Scratch.Get . }}">{{ . }}</a>
+      {{ else }}
+      {{ . }}
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+  <!--Abstract-->
+  {{ if .Content }}
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+      <h2>Abstract</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+      {{ .Content }}
+    </div>
+  </div>
+  {{ end }}
+
+</div>
+{{ partial "footer.html" . }}

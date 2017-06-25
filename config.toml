@@ -1,0 +1,26 @@
+baseurl = "http://104.196.252.164"
+languageCode = "en-us"
+title = "BYU Applied Machine Learning Laboratory"
+
+[params]
+hero = "img/hero.jpg"
+
+[[menu.nav]]
+name = "About"
+url = "/about"
+weight = 1
+
+[[menu.nav]]
+name = "People"
+url = "/people"
+weight = 2
+
+[[menu.nav]]
+name = "Publications"
+url = "/publications"
+weight = 3
+
+[[menu.nav]]
+name = "Projects"
+url = "/projects"
+weight = 4
