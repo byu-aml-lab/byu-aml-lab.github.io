@@ -1,6 +1,7 @@
 baseurl = "http://104.196.252.164"
 languageCode = "en-us"
 title = "BYU Applied Machine Learning Laboratory"
+pluralizeListTitles = false
 
 [params]
 hero = "img/hero.jpg"
