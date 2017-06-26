@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BYU Applied Machine Learning Laboratory</title>
-    <link>https://byu-aml-lab.github.io/</link>
+    <link>https://byu-aml-lab.github.io/lab-website/</link>
     <description>Recent content on BYU Applied Machine Learning Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://byu-aml-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://byu-aml-lab.github.io/lab-website/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Us</title>
-      <link>https://byu-aml-lab.github.io/about/</link>
+      <link>https://byu-aml-lab.github.io/lab-website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byu-aml-lab.github.io/about/</guid>
+      <guid>https://byu-aml-lab.github.io/lab-website/about/</guid>
       <description>&lt;p&gt;The BYU Applied Machine Learning Laboratory focuses on increasing the
 practicality of theoretical machine learning algorithms, especially as applied
 to autonomous robotic systems. We concentrate on making reinforcement learning
@@ -33,56 +33,57 @@ calling (801) 422-8717, or by contacting Dr. Seppi at (801) 422-4619.&lt;/p&gt;
     
     <item>
       <title>Big Widgets</title>
-      <link>https://byu-aml-lab.github.io/publications/bigwidgets/</link>
+      <link>https://byu-aml-lab.github.io/lab-website/publications/bigwidgets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byu-aml-lab.github.io/publications/bigwidgets/</guid>
+      <guid>https://byu-aml-lab.github.io/lab-website/publications/bigwidgets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Closing the Loop</title>
-      <link>https://byu-aml-lab.github.io/projects/closeloop/</link>
+      <link>https://byu-aml-lab.github.io/lab-website/projects/closeloop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byu-aml-lab.github.io/projects/closeloop/</guid>
-      <description></description>
+      <guid>https://byu-aml-lab.github.io/lab-website/projects/closeloop/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re loop closers. Deal with it!&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Jeffrey Lund</title>
-      <link>https://byu-aml-lab.github.io/people/jefflund/</link>
+      <link>https://byu-aml-lab.github.io/lab-website/people/jefflund/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byu-aml-lab.github.io/people/jefflund/</guid>
+      <guid>https://byu-aml-lab.github.io/lab-website/people/jefflund/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kevin Seppi</title>
-      <link>https://byu-aml-lab.github.io/people/kevinseppi/</link>
+      <link>https://byu-aml-lab.github.io/lab-website/people/kevinseppi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byu-aml-lab.github.io/people/kevinseppi/</guid>
+      <guid>https://byu-aml-lab.github.io/lab-website/people/kevinseppi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tandem Anchors</title>
-      <link>https://byu-aml-lab.github.io/publications/tandemanchors/</link>
+      <link>https://byu-aml-lab.github.io/lab-website/publications/tandemanchors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byu-aml-lab.github.io/publications/tandemanchors/</guid>
+      <guid>https://byu-aml-lab.github.io/lab-website/publications/tandemanchors/</guid>
       <description>&lt;p&gt;This was a fine paper. You should read it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>asdf</title>
-      <link>https://byu-aml-lab.github.io/bib/asdf/</link>
+      <link>https://byu-aml-lab.github.io/lab-website/bib/asdf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byu-aml-lab.github.io/bib/asdf/</guid>
+      <guid>https://byu-aml-lab.github.io/lab-website/bib/asdf/</guid>
       <description>&lt;p&gt;@article{ahu61,
   author={Arrow, Kenneth J. and Leonid Hurwicz and Hirofumi Uzawa},
   title={Constraint qualifications in maximization problems},

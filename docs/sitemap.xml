@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://byu-aml-lab.github.io/</loc>
+    <loc>https://byu-aml-lab.github.io/lab-website/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://byu-aml-lab.github.io/about/</loc>
+    <loc>https://byu-aml-lab.github.io/lab-website/about/</loc>
   </url>
   
   <url>
-    <loc>https://byu-aml-lab.github.io/publications/bigwidgets/</loc>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/bigwidgets/</loc>
   </url>
   
   <url>
-    <loc>https://byu-aml-lab.github.io/projects/closeloop/</loc>
+    <loc>https://byu-aml-lab.github.io/lab-website/projects/closeloop/</loc>
   </url>
   
   <url>
-    <loc>https://byu-aml-lab.github.io/people/jefflund/</loc>
+    <loc>https://byu-aml-lab.github.io/lab-website/people/jefflund/</loc>
   </url>
   
   <url>
-    <loc>https://byu-aml-lab.github.io/people/kevinseppi/</loc>
+    <loc>https://byu-aml-lab.github.io/lab-website/people/kevinseppi/</loc>
   </url>
   
   <url>
-    <loc>https://byu-aml-lab.github.io/publications/tandemanchors/</loc>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/tandemanchors/</loc>
   </url>
   
   <url>
-    <loc>https://byu-aml-lab.github.io/bib/asdf/</loc>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/asdf/</loc>
   </url>
   
 </urlset>

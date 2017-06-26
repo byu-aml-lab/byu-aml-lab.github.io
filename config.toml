@@ -1,9 +1,8 @@
-baseurl = "https://byu-aml-lab.github.io"
+baseurl = "https://byu-aml-lab.github.io/lab-website/"
 languageCode = "en-us"
 title = "BYU Applied Machine Learning Laboratory"
 pluralizeListTitles = false
 publishDir = "docs"
-
 
 [params]
 hero = "img/hero.jpg"

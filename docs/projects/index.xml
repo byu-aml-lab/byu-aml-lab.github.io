@@ -2,19 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on BYU Applied Machine Learning Laboratory</title>
-    <link>https://byu-aml-lab.github.io/projects/</link>
+    <link>https://byu-aml-lab.github.io/lab-website/projects/</link>
     <description>Recent content in Projects on BYU Applied Machine Learning Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://byu-aml-lab.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://byu-aml-lab.github.io/lab-website/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Closing the Loop</title>
-      <link>https://byu-aml-lab.github.io/projects/closeloop/</link>
+      <link>https://byu-aml-lab.github.io/lab-website/projects/closeloop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byu-aml-lab.github.io/projects/closeloop/</guid>
-      <description></description>
+      <guid>https://byu-aml-lab.github.io/lab-website/projects/closeloop/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re loop closers. Deal with it!&lt;/p&gt;
+</description>
     </item>
     
   </channel>

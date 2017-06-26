@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bib on BYU Applied Machine Learning Laboratory</title>
-    <link>https://byu-aml-lab.github.io/bib/</link>
+    <link>https://byu-aml-lab.github.io/lab-website/bib/</link>
     <description>Recent content in Bib on BYU Applied Machine Learning Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://byu-aml-lab.github.io/bib/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://byu-aml-lab.github.io/lab-website/bib/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>asdf</title>
-      <link>https://byu-aml-lab.github.io/bib/asdf/</link>
+      <link>https://byu-aml-lab.github.io/lab-website/bib/asdf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byu-aml-lab.github.io/bib/asdf/</guid>
+      <guid>https://byu-aml-lab.github.io/lab-website/bib/asdf/</guid>
       <description>&lt;p&gt;@article{ahu61,
   author={Arrow, Kenneth J. and Leonid Hurwicz and Hirofumi Uzawa},
   title={Constraint qualifications in maximization problems},
