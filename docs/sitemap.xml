@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/publications/bigwidgets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/projects/closeloop/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/people/jefflund/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/people/kevinseppi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/publications/tandemanchors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/bib/asdf/</loc>
+  </url>
+  
+</urlset>

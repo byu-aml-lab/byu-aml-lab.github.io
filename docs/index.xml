@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BYU Applied Machine Learning Laboratory</title>
+    <link>https://byu-aml-lab.github.io/</link>
+    <description>Recent content on BYU Applied Machine Learning Laboratory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://byu-aml-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Us</title>
+      <link>https://byu-aml-lab.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/about/</guid>
+      <description>&lt;p&gt;The BYU Applied Machine Learning Laboratory focuses on increasing the
+practicality of theoretical machine learning algorithms, especially as applied
+to autonomous robotic systems. We concentrate on making reinforcement learning
+techniques applicable to large problems, and on making it fast enough for
+on-line use. The lab is currently pursuing research projects in areas such as
+knowledge transfer, skill selection, skill composition, function approximation,
+multi-agent decomposition, and adversarial multi-agent learning. Q-learning,
+suitable function approximation such as RBF and back-propagation networks, and
+induced abstract models are the primary methodologies we use to solve problems.
+The lab is directed by Dr. Kevin Seppi, and is operated under the Computer
+Science Department of Brigham Young University. The lab can be contacted by
+calling (801) 422-8717, or by contacting Dr. Seppi at (801) 422-4619.&lt;/p&gt;
+
+&lt;p&gt;The lab is located in room 3350 of the TMCB on BYU campus in Provo, Utah.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Widgets</title>
+      <link>https://byu-aml-lab.github.io/publications/bigwidgets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/publications/bigwidgets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closing the Loop</title>
+      <link>https://byu-aml-lab.github.io/projects/closeloop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/projects/closeloop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeffrey Lund</title>
+      <link>https://byu-aml-lab.github.io/people/jefflund/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/people/jefflund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Seppi</title>
+      <link>https://byu-aml-lab.github.io/people/kevinseppi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/people/kevinseppi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tandem Anchors</title>
+      <link>https://byu-aml-lab.github.io/publications/tandemanchors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/publications/tandemanchors/</guid>
+      <description>&lt;p&gt;This was a fine paper. You should read it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>asdf</title>
+      <link>https://byu-aml-lab.github.io/bib/asdf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/bib/asdf/</guid>
+      <description>&lt;p&gt;@article{ahu61,
+  author={Arrow, Kenneth J. and Leonid Hurwicz and Hirofumi Uzawa},
+  title={Constraint qualifications in maximization problems},
+  journal={Naval Research Logistics Quarterly},
+  volume={8},
+  year=1961,
+  pages={175-191}
+}&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
