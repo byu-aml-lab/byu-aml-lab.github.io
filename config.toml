@@ -9,20 +9,20 @@ hero = "img/hero.jpg"
 
 [[menu.nav]]
 name = "About"
-url = "/about"
+url = "about"
 weight = 1
 
 [[menu.nav]]
 name = "People"
-url = "/people"
+url = "people"
 weight = 2
 
 [[menu.nav]]
 name = "Publications"
-url = "/publications"
+url = "publications"
 weight = 3
 
 [[menu.nav]]
 name = "Projects"
-url = "/projects"
+url = "projects"
 weight = 4
