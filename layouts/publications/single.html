@@ -6,6 +6,13 @@
     <h1>{{ .Title }}</h1>
   </div>
 </div>
+{{ if .Params.publisher }}
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <h2>{{ .Params.publisher }}</h2>
+  </div>
+</div>
+{{ end }}
 
 <!--Authors-->
 {{ range where .Site.Pages "Section" "people" }}
@@ -27,7 +34,7 @@
 {{ if .Content }}
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <h2>Abstract</h2>
+    <h3>Abstract</h3>
   </div>
 </div>
 <div class="row">
@@ -36,5 +43,17 @@
   </div>
 </div>
 {{ end }}
+
+<!--Links-->
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    {{ if .Params.bibtex }}
+    <a href="{{ .Params.bibtex | absURL }}">[Bibtex]</a>
+    {{ end }}
+    {{ if .Params.pdf }}
+    <a href="{{ .Params.pdf | absURL }}">[PDF]</a>
+    {{ end }}
+  </div>
+</div>
 
 {{ partial "footer.html" . }}
