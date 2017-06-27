@@ -9,6 +9,33 @@
     <atom:link href="https://byu-aml-lab.github.io/lab-website/people/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Connor Cook</title>
+      <link>https://byu-aml-lab.github.io/lab-website/people/connorcook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/people/connorcook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethan Garofolo</title>
+      <link>https://byu-aml-lab.github.io/lab-website/people/ethangarofolo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/people/ethangarofolo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grant Hodgson</title>
+      <link>https://byu-aml-lab.github.io/lab-website/people/granthodgson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/people/granthodgson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jeffrey Lund</title>
       <link>https://byu-aml-lab.github.io/lab-website/people/jefflund/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -23,6 +50,33 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byu-aml-lab.github.io/lab-website/people/kevinseppi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naomi Johnson</title>
+      <link>https://byu-aml-lab.github.io/lab-website/people/naomijohnson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/people/naomijohnson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nozomu Okuda</title>
+      <link>https://byu-aml-lab.github.io/lab-website/people/nozomuokuda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/people/nozomuokuda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Felt</title>
+      <link>https://byu-aml-lab.github.io/lab-website/people/paulfelt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/people/paulfelt/</guid>
       <description></description>
     </item>
     

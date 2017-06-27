@@ -1,6 +1,6 @@
 +++
 title = "Closing the Loop"
-contributors = ["Jeffrey Lund", "Kevin Seppi"]
+contributors = ["Jeffrey Lund", "Kevin Seppi", "Connor Cook", "Ethan Garofolo", "Grant Hodgson", "Naomi Johnson", "Nozomu Okuda"]
 +++
 
 # This project page is under construction.
