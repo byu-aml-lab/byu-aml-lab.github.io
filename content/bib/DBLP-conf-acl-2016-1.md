@@ -1,0 +1,16 @@
++++
+title = "DBLP-conf-acl-2016-1"
++++
+
+@proceedings{DBLP:conf/acl/2016-1,
+   publisher={The Association for Computer Linguistics},
+   link={http://aclanthology.info/volumes/proceedings-of-the-54th-annual-meeting-of-the-association-for-computational-linguistics-volume-1-long-papers},
+   isbn={978-1-945626-00-5},
+   bibsource={dblp computer science bibliography, http://dblp.org},
+   year={2016},
+   title={Proceedings of the 54th Annual Meeting of the Association for Computational
+Linguistics, {ACL} 2016, August 7-12, 2016, Berlin, Germany, Volume
+1: Long Papers},
+   timestamp={Mon, 15 Aug 2016 15:53:28 +0200},
+   biburl={http://dblp.uni-trier.de/rec/bib/conf/acl/2016-1},
+}

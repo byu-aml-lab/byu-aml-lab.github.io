@@ -1,0 +1,23 @@
++++
+title = "DBLP-conf-iros-YiHGS16"
++++
+
+@inproceedings{DBLP:conf/iros/YiHGS16,
+   booktitle={2016 {IEEE/RSJ} International Conference on Intelligent Robots and
+Systems, {IROS} 2016, Daejeon, South Korea, October 9-14, 2016},
+   crossref={DBLP:conf/iros/2016},
+   link={https://doi.org/10.1109/IROS.2016.7759238},
+   timestamp={Mon, 22 May 2017 17:11:38 +0200},
+   author={Daqing Yi and
+Thomas M. Howard and
+Michael A. Goodrich and
+Kevin D. Seppi},
+   biburl={http://dblp.uni-trier.de/rec/bib/conf/iros/YiHGS16},
+   pages={1462--1468},
+   abstract={Allowing a human to express topological requirements to a robot in language enables untrained users to guide robot movement without requiring the human to understand sophisticated robot algorithms. By using a homotopy class or classes to represent one or more topological requirements, we build a framework that helps a robot understand a human's intent. This paper reviews a homotopic decomposition method that is used to convert any path into a string, which allows homotopic path equivalence to be performed by comparing strings. We then integrate the Homotopic Distributed Correspondence Graph (HoDCG) to infer the homotopic constraint in the format of strings from a language instruction. Finally, we use a homotopic path-planning algorithm that finds the optimal paths for a given objective and homotopic constraint. Experiment results show how a language instruction is converted into a path driven by an implicit topological requirement.},
+   doi={10.1109/IROS.2016.7759238},
+   bibsource={dblp computer science bibliography, http://dblp.org},
+   year={2016},
+   title={Expressing homotopic requirements for mobile robot navigation through
+natural language instructions},
+}

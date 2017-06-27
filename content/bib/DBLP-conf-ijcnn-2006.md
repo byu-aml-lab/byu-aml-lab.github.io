@@ -1,0 +1,14 @@
++++
+title = "DBLP-conf-ijcnn-2006"
++++
+
+@proceedings{DBLP:conf/ijcnn/2006,
+   publisher={IEEE},
+   link={http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=11216},
+   isbn={0-7803-9490-9},
+   bibsource={dblp computer science bibliography, http://dblp.org},
+   year={2006},
+   title={Proceedings of the International Joint Conference on Neural Networks, {IJCNN} 2006, part of the {IEEE} World Congress on Computational Intelligence, {WCCI} 2006, Vancouver, BC, Canada, 16-21 July 2006},
+   timestamp={Wed, 29 Mar 2017 16:45:25 +0200},
+   biburl={http://dblp.uni-trier.de/rec/bib/conf/ijcnn/2006},
+}

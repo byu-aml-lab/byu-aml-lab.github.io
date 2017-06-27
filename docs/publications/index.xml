@@ -9,22 +9,140 @@
     <atom:link href="https://byu-aml-lab.github.io/lab-website/publications/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Big Widgets</title>
-      <link>https://byu-aml-lab.github.io/lab-website/publications/bigwidgets/</link>
+      <title>19th International Parallel and Distributed Processing Symposium {(IPDPS}2005), {CD-ROM} / Abstracts Proceedings, 4-8 April 2005, Denver, CO, {USA}</title>
+      <link>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-ipps-2005/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byu-aml-lab.github.io/lab-website/publications/bigwidgets/</guid>
+      <guid>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-ipps-2005/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tandem Anchors</title>
-      <link>https://byu-aml-lab.github.io/lab-website/publications/tandemanchors/</link>
+      <title>2009 {IEEE} Computer Society Conference on Computer Vision and PatternRecognition {(CVPR} 2009), 20-25 June 2009, Miami, Florida, {USA}</title>
+      <link>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cvpr-2009/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byu-aml-lab.github.io/lab-website/publications/tandemanchors/</guid>
-      <description>&lt;p&gt;This was a fine paper. You should read it.&lt;/p&gt;
+      <guid>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cvpr-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2012 {SC} Companion: High Performance Computing, Networking Storageand Analysis, Salt Lake City, UT, USA, November 10-16, 2012</title>
+      <link>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-sc-2012c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-sc-2012c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2014 {IEEE} International Conference on Systems, Man, and Cybernetics, {SMC} 2014, San Diego, CA, USA, October 5-8, 2014</title>
+      <link>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-smc-2014/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-smc-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2014 {IEEE} Symposium on Swarm Intelligence, {SIS} 2014, Orlando, FL, USA, December 9-12, 2014</title>
+      <link>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-swis-2014/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-swis-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2016 {IEEE/RSJ} International Conference on Intelligent Robots andSystems, {IROS} 2016, Daejeon, South Korea, October 9-14, 2016</title>
+      <link>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-iros-2016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-iros-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4th International Conference on Application of Concurrency to SystemDesign {(ACSD} 2004), 16-18 June 2004, Hamilton, Canada</title>
+      <link>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-acsd-2004/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-acsd-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>54th {IEEE} Conference on Decision and Control, {CDC} 2015, Osaka, Japan, December 15-18, 2015</title>
+      <link>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cdc-2015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cdc-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6th Workshop on Python for High-Performance and Scientific Computing, PyHPC@SC 2016, Salt Lake, UT, USA, November 14, 2016</title>
+      <link>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-sc-2016pyhpc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-sc-2016pyhpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Approach to Database Query Optimization</title>
+      <link>https://byu-aml-lab.github.io/lab-website/publications/DBLP-journals-informs-SeppiBM93/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/publications/DBLP-journals-informs-SeppiBM93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian technique for task localization in multiple goal Markovdecision processes</title>
+      <link>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-icmla-CarrollS04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-icmla-CarrollS04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Graphical Model for Evolutionary Optimization</title>
+      <link>https://byu-aml-lab.github.io/lab-website/publications/DBLP-journals-ec-MonsonS08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/publications/DBLP-journals-ec-MonsonS08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Graphical Model for Evolutionary Optimization</title>
+      <link>https://byu-aml-lab.github.io/lab-website/publications/doi-10.1162-evco.2008.16.3.289/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/publications/doi-10.1162-evco.2008.16.3.289/</guid>
+      <description>&lt;p&gt;Abstract We present a statistical model of empirical optimization that admits the creation of algorithms with explicit and intuitively defined desiderata. Because No Free Lunch theorems dictate that no optimization algorithm can be considered more efficient than any other when considering all possible functions, the desired function class plays a prominent role in the model. In particular, this provides a direct way to answer the traditionally difficult question of what algorithm is best matched to a particular class of functions. Among the benefits of the model are the ability to specify the function class in a straightforward manner, a natural way to specify noisy or dynamic functions, and a new source of insight into No Free Lunch theorems for optimization.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Multi-Site Joint Replication of a Design Patterns Experiment Using Moderator Variables to Generalize across Contexts</title>
+      <link>https://byu-aml-lab.github.io/lab-website/publications/7294706/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/publications/7294706/</guid>
+      <description>&lt;p&gt;Context. Several empirical studies have explored the benefits of software design patterns, but their collective results are highly inconsistent. Resolving the inconsistencies requires investigating moderators—i.e., variables that cause an effect to differ across contexts. Objectives. Replicate a design patterns experiment at multiple sites and identify sufficient moderators to generalize the results across prior studies. Methods. We perform a close replication of an experiment investigating the impact (in terms of time and quality) of design patterns (Decorator and Abstract Factory) on software maintenance. The experiment was replicated once previously, with divergent results. We execute our replication at four universities—spanning two continents and three countries—using a new method for performing distributed replications based on closely coordinated, small-scale instances (“joint replication”). We perform two analyses: 1) a post-hoc analysis of moderators, based on frequentist and Bayesian statistics; 2) an a priori analysis of the original hypotheses, based on frequentist statistics. Results. The main effect differs across the previous instances of the experiment and across the sites in our distributed replication. Our analysis of moderators (including developer experience and pattern knowledge) resolves the differences sufficiently to allow for cross-context (and cross-study) conclusions. The final conclusions represent 126 participants from five universities and 12 software companies, spanning two continents and at least four countries. Conclusions. The Decorator pattern is found to be preferable to a simpler solution during maintenance, as long as the developer has at least some prior knowledge of the pattern. For A- stract Factory, the simpler solution is found to be mostly equivalent to the pattern solution. Abstract Factory is shown to require a higher level of knowledge and/or experience than Decorator for the pattern to be beneficial.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Morphological Analyzer for Syriac</title>
+      <link>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-emnlp-McClanahanBHHLSR10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-emnlp-McClanahanBHHLSR10/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -9,18 +9,375 @@
     <atom:link href="https://byu-aml-lab.github.io/lab-website/bib/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>asdf</title>
-      <link>https://byu-aml-lab.github.io/lab-website/bib/asdf/</link>
+      <title>1309134</title>
+      <link>https://byu-aml-lab.github.io/lab-website/bib/1309134/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byu-aml-lab.github.io/lab-website/bib/asdf/</guid>
-      <description>&lt;p&gt;@article{ahu61,
-  author={Arrow, Kenneth J. and Leonid Hurwicz and Hirofumi Uzawa},
-  title={Constraint qualifications in maximization problems},
-  journal={Naval Research Logistics Quarterly},
-  volume={8},
-  year=1961,
-  pages={175-191}
+      <guid>https://byu-aml-lab.github.io/lab-website/bib/1309134/</guid>
+      <description>&lt;p&gt;@inproceedings{1309134,
+   booktitle={Proceedings. Fourth International Conference on Application of Concurrency to System Design, 2004. ACSD 2004.},
+   pages={217-226},
+   abstract={This work presents a formal verification algorithm for finding errors in models of complex concurrent systems. The algorithm improves explicit guided model checking by applying the empirical Bayes method to revise heuristic estimates of the distance from a given state to an error state. Guided search using the revised estimates finds errors with less search effort than the original estimates.},
+   keyword={Bayes methods;concurrency control;formal verification;search problems;Bayes method;Bayesian metaheuristic;complex concurrent systems;error state;formal verification;guided model checking;guided search;heuristic estimates;Bayesian methods;Computer errors;Computer science;Concurrent computing;Cost function;Formal verification;Protocols;Random variables;State estimation;Statistical analysis},
+   year={2004},
+   title={Guided model checking with a Bayesian meta-heuristic},
+   doi={10.1109/CSD.2004.1309134},
+   author={K. Seppi and M. Jones and P. Lamborn},
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>7294706</title>
+      <link>https://byu-aml-lab.github.io/lab-website/bib/7294706/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/bib/7294706/</guid>
+      <description>&lt;p&gt;@article{7294706,
+   number={4},
+   volume={42},
+   author={J. L. Krein and L. Prechelt and N. Juristo and A. Nanthaamornphong and J. C. Carver and S. Vegas and C. D. Knutson and K. D. Seppi and D. L. Eggett},
+   issn={0098-5589},
+   pages={302-321},
+   journal={IEEE Transactions on Software Engineering},
+   abstract={Context. Several empirical studies have explored the benefits of software design patterns, but their collective results are highly inconsistent. Resolving the inconsistencies requires investigating moderators—i.e., variables that cause an effect to differ across contexts. Objectives. Replicate a design patterns experiment at multiple sites and identify sufficient moderators to generalize the results across prior studies. Methods. We perform a close replication of an experiment investigating the impact (in terms of time and quality) of design patterns (Decorator and Abstract Factory) on software maintenance. The experiment was replicated once previously, with divergent results. We execute our replication at four universities—spanning two continents and three countries—using a new method for performing distributed replications based on closely coordinated, small-scale instances (“joint replication”). We perform two analyses: 1) a post-hoc analysis of moderators, based on frequentist and Bayesian statistics; 2) an a priori analysis of the original hypotheses, based on frequentist statistics. Results. The main effect differs across the previous instances of the experiment and across the sites in our distributed replication. Our analysis of moderators (including developer experience and pattern knowledge) resolves the differences sufficiently to allow for cross-context (and cross-study) conclusions. The final conclusions represent 126 participants from five universities and 12 software companies, spanning two continents and at least four countries. Conclusions. The Decorator pattern is found to be preferable to a simpler solution during maintenance, as long as the developer has at least some prior knowledge of the pattern. For A- stract Factory, the simpler solution is found to be mostly equivalent to the pattern solution. Abstract Factory is shown to require a higher level of knowledge and/or experience than Decorator for the pattern to be beneficial.},
+   doi={10.1109/TSE.2015.2488625},
+   year={2016},
+   title={A Multi-Site Joint Replication of a Design Patterns Experiment Using Moderator Variables to Generalize across Contexts},
+   keyword={Context modeling;Design methodology;Production facilities;Training;Design patterns;controlled experiment;joint replication;moderator variables;multi-site;software maintenance},
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cook2014</title>
+      <link>https://byu-aml-lab.github.io/lab-website/bib/Cook2014/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/bib/Cook2014/</guid>
+      <description>&lt;p&gt;@article{Cook2014,
+   number={1},
+   volume={74},
+   author={Cook, Kevin
+and Bryan, Everett
+and Yu, Huili
+and Bai, He
+and Seppi, Kevin
+and Beard, Randal},
+   issn={1573-0409},
+   pages={251&amp;ndash;267},
+   journal={Journal of Intelligent {&amp;amp;} Robotic Systems},
+   abstract={We introduce an intelligent cooperative control system for ground target tracking in a cluttered urban environment with a team of autonomous Unmanned Air Vehicles (UAVs). We extend the work of Yu et al. to use observations of target position to learn a model of target motion. Simulated cooperative control of a team of 9 UAVs in a 100-block city filled with various sizes of buildings verifies that learning a model of target motion can improve target tracking performance.},
+   doi={10.1007/s10846-013-9896-5},
+   title={Intelligent Cooperative Control for Urban Tracking},
+   year={2014},
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DBLP-conf-acl-2008s</title>
+      <link>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acl-2008s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acl-2008s/</guid>
+      <description>&lt;p&gt;@proceedings{DBLP:conf/acl/2008s,
+   publisher={The Association for Computer Linguistics},
+   timestamp={Fri, 04 Jun 2010 13:14:24 +0200},
+   bibsource={dblp computer science bibliography, &lt;a href=&#34;http://dblp.org&#34;&gt;http://dblp.org&lt;/a&gt;},
+   year={2008},
+   title={{ACL} 2008, Proceedings of the 46th Annual Meeting of the Association
+for Computational Linguistics, June 15-20, 2008, Columbus, Ohio, USA, Short Papers},
+   biburl={&lt;a href=&#34;http://dblp.uni-trier.de/rec/bib/conf/acl/2008s&#34;&gt;http://dblp.uni-trier.de/rec/bib/conf/acl/2008s&lt;/a&gt;},
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DBLP-conf-acl-2016-1</title>
+      <link>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acl-2016-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acl-2016-1/</guid>
+      <description>&lt;p&gt;@proceedings{DBLP:conf/acl/2016-1,
+   publisher={The Association for Computer Linguistics},
+   link={&lt;a href=&#34;http://aclanthology.info/volumes/proceedings-of-the-54th-annual-meeting-of-the-association-for-computational-linguistics-volume-1-long-papers&#34;&gt;http://aclanthology.info/volumes/proceedings-of-the-54th-annual-meeting-of-the-association-for-computational-linguistics-volume-1-long-papers&lt;/a&gt;},
+   isbn={978-1-945626-00-5},
+   bibsource={dblp computer science bibliography, &lt;a href=&#34;http://dblp.org&#34;&gt;http://dblp.org&lt;/a&gt;},
+   year={2016},
+   title={Proceedings of the 54th Annual Meeting of the Association for Computational
+Linguistics, {ACL} 2016, August 7-12, 2016, Berlin, Germany, Volume
+1: Long Papers},
+   timestamp={Mon, 15 Aug 2016 15:53:28 +0200},
+   biburl={&lt;a href=&#34;http://dblp.uni-trier.de/rec/bib/conf/acl/2016-1&#34;&gt;http://dblp.uni-trier.de/rec/bib/conf/acl/2016-1&lt;/a&gt;},
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DBLP-conf-acl-HaertelRSCM08</title>
+      <link>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acl-HaertelRSCM08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acl-HaertelRSCM08/</guid>
+      <description>&lt;p&gt;@inproceedings{DBLP:conf/acl/HaertelRSCM08,
+   booktitle={{ACL} 2008, Proceedings of the 46th Annual Meeting of the Association
+for Computational Linguistics, June 15-20, 2008, Columbus, Ohio, USA, Short Papers},
+   crossref={DBLP:conf/acl/2008s},
+   link={&lt;a href=&#34;http://www.aclweb.org/anthology/P08-2017&#34;&gt;http://www.aclweb.org/anthology/P08-2017&lt;/a&gt;},
+   timestamp={Fri, 04 Jun 2010 13:14:24 +0200},
+   author={Robbie Haertel and
+Eric K. Ringger and
+Kevin D. Seppi and
+James L. Carroll and
+Peter McClanahan},
+   biburl={&lt;a href=&#34;http://dblp.uni-trier.de/rec/bib/conf/acl/HaertelRSCM08&#34;&gt;http://dblp.uni-trier.de/rec/bib/conf/acl/HaertelRSCM08&lt;/a&gt;},
+   pages={65&amp;ndash;68},
+   bibsource={dblp computer science bibliography, &lt;a href=&#34;http://dblp.org&#34;&gt;http://dblp.org&lt;/a&gt;},
+   year={2008},
+   title={Assessing the Costs of Sampling Methods in Active Learning for Annotation},
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DBLP-conf-acl-Poursabzi-Sangdeh16</title>
+      <link>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acl-Poursabzi-Sangdeh16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acl-Poursabzi-Sangdeh16/</guid>
+      <description>&lt;p&gt;@inproceedings{DBLP:conf/acl/Poursabzi-Sangdeh16,
+   booktitle={Proceedings of the 54th Annual Meeting of the Association for Computational
+Linguistics, {ACL} 2016, August 7-12, 2016, Berlin, Germany, Volume
+1: Long Papers},
+   crossref={DBLP:conf/acl/2016-1},
+   link={&lt;a href=&#34;http://aclweb.org/anthology/P/P16/P16-1110.pdf&#34;&gt;http://aclweb.org/anthology/P/P16/P16-1110.pdf&lt;/a&gt;},
+   timestamp={Mon, 15 Aug 2016 20:10:51 +0200},
+   author={Forough Poursabzi{-}Sangdeh and
+Jordan L. Boyd{-}Graber and
+Leah Findlater and
+Kevin D. Seppi},
+   biburl={&lt;a href=&#34;http://dblp.uni-trier.de/rec/bib/conf/acl/Poursabzi-Sangdeh16&#34;&gt;http://dblp.uni-trier.de/rec/bib/conf/acl/Poursabzi-Sangdeh16&lt;/a&gt;},
+   abstract={Effective text classification requires experts
+to annotate data with labels; these training
+data are time-consuming and expensive to
+obtain. If you know what labels you want, active learning can reduce the number of
+labeled documents needed. However, establishing
+the label set remains difficult. Annotators
+often lack the global knowledge
+needed to induce a label set. We introduce
+ALTO: Active Learning with Topic
+Overviews, an interactive system to help
+humans annotate documents: topic models
+provide a global overview of what labels
+to create and active learning directs
+them to the right documents to label. Our
+forty-annotator user study shows that while
+active learning alone is best in extremely
+resource limited conditions, topic models
+(even by themselves) lead to better label
+sets, and ALTO’s combination is best overall.},
+   bibsource={dblp computer science bibliography, &lt;a href=&#34;http://dblp.org&#34;&gt;http://dblp.org&lt;/a&gt;},
+   year={2016},
+   title={{ALTO:} Active Learning with Topic Overviews for Speeding Label Induction
+and Document Labeling},
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DBLP-conf-acllaw-2015</title>
+      <link>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acllaw-2015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acllaw-2015/</guid>
+      <description>&lt;p&gt;@proceedings{DBLP:conf/acllaw/2015,
+   publisher={The Association for Computer Linguistics},
+   isbn={978-1-941643-47-1},
+   bibsource={dblp computer science bibliography, &lt;a href=&#34;http://dblp.org&#34;&gt;http://dblp.org&lt;/a&gt;},
+   year={2015},
+   title={Proceedings of The 9th Linguistic Annotation Workshop, LAW@NAACL-HLT
+2015, June 5, 2015, Denver, Colorado, {USA}},
+   timestamp={Tue, 20 Sep 2016 19:16:02 +0200},
+   editor={Adam Meyers and
+Ines Rehbein and
+Heike Zinsmeister},
+   biburl={&lt;a href=&#34;http://dblp.uni-trier.de/rec/bib/conf/acllaw/2015&#34;&gt;http://dblp.uni-trier.de/rec/bib/conf/acllaw/2015&lt;/a&gt;},
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DBLP-conf-acllaw-HaertelRSF15</title>
+      <link>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acllaw-HaertelRSF15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acllaw-HaertelRSF15/</guid>
+      <description>&lt;p&gt;@inproceedings{DBLP:conf/acllaw/HaertelRSF15,
+   booktitle={Proceedings of The 9th Linguistic Annotation Workshop, LAW@NAACL-HLT
+2015, June 5, 2015, Denver, Colorado, {USA}},
+   crossref={DBLP:conf/acllaw/2015},
+   link={&lt;a href=&#34;http://aclweb.org/anthology/W/W15/W15-1602.pdf&#34;&gt;http://aclweb.org/anthology/W/W15/W15-1602.pdf&lt;/a&gt;},
+   timestamp={Tue, 20 Sep 2016 19:16:02 +0200},
+   author={Robbie Haertel and
+Eric K. Ringger and
+Kevin D. Seppi and
+Paul Felt},
+   biburl={&lt;a href=&#34;http://dblp.uni-trier.de/rec/bib/conf/acllaw/HaertelRSF15&#34;&gt;http://dblp.uni-trier.de/rec/bib/conf/acllaw/HaertelRSF15&lt;/a&gt;},
+   pages={11&amp;ndash;20},
+   bibsource={dblp computer science bibliography, &lt;a href=&#34;http://dblp.org&#34;&gt;http://dblp.org&lt;/a&gt;},
+   year={2015},
+   title={An Analytic and Empirical Evaluation of Return-on-Investment-Based
+Active Learning},
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DBLP-conf-acsd-2004</title>
+      <link>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acsd-2004/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acsd-2004/</guid>
+      <description>&lt;p&gt;@proceedings{DBLP:conf/acsd/2004,
+   publisher={{IEEE} Computer Society},
+   link={&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=9149&#34;&gt;http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=9149&lt;/a&gt;},
+   isbn={0-7695-2077-4},
+   bibsource={dblp computer science bibliography, &lt;a href=&#34;http://dblp.org&#34;&gt;http://dblp.org&lt;/a&gt;},
+   year={2004},
+   title={4th International Conference on Application of Concurrency to System
+Design {(ACSD} 2004), 16-18 June 2004, Hamilton, Canada},
+   timestamp={Fri, 08 May 2015 15:30:10 +0200},
+   biburl={&lt;a href=&#34;http://dblp.uni-trier.de/rec/bib/conf/acsd/2004&#34;&gt;http://dblp.uni-trier.de/rec/bib/conf/acsd/2004&lt;/a&gt;},
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DBLP-conf-acsd-SeppiJL04</title>
+      <link>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acsd-SeppiJL04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acsd-SeppiJL04/</guid>
+      <description>&lt;p&gt;@inproceedings{DBLP:conf/acsd/SeppiJL04,
+   booktitle={4th International Conference on Application of Concurrency to System
+Design {(ACSD} 2004), 16-18 June 2004, Hamilton, Canada},
+   crossref={DBLP:conf/acsd/2004},
+   link={&lt;a href=&#34;https://doi.org/10.1109/CSD.2004.1309134&#34;&gt;https://doi.org/10.1109/CSD.2004.1309134&lt;/a&gt;},
+   timestamp={Thu, 25 May 2017 01:00:00 +0200},
+   author={Kevin D. Seppi and
+Michael D. Jones and
+Peter Lamborn},
+   biburl={&lt;a href=&#34;http://dblp.uni-trier.de/rec/bib/conf/acsd/SeppiJL04&#34;&gt;http://dblp.uni-trier.de/rec/bib/conf/acsd/SeppiJL04&lt;/a&gt;},
+   pages={217&amp;ndash;226},
+   doi={10.1109/CSD.2004.1309134},
+   bibsource={dblp computer science bibliography, &lt;a href=&#34;http://dblp.org&#34;&gt;http://dblp.org&lt;/a&gt;},
+   year={2004},
+   title={Guided Model Checking with a Bayesian Meta-heuristic},
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DBLP-conf-and-2010</title>
+      <link>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-and-2010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-and-2010/</guid>
+      <description>&lt;p&gt;@proceedings{DBLP:conf/and/2010,
+   publisher={ACM},
+   isbn={978-1-4503-0376-7},
+   bibsource={dblp computer science bibliography, &lt;a href=&#34;http://dblp.org&#34;&gt;http://dblp.org&lt;/a&gt;},
+   year={2010},
+   title={Proceedings of the Fourth Workshop on Analytics for Noisy Unstructured
+Text Data, {AND} 2010, Toronto, Ontario, Canada, October 26th, 2010
+(in conjunction with {CIKM} 2010)},
+   timestamp={Thu, 16 Dec 2010 13:35:06 +0100},
+   editor={Roberto Basili and
+Daniel P. Lopresti and
+Christoph Ringlstetter and
+Shourya Roy and
+Klaus U. Schulz and
+L. Venkata Subramaniam},
+   biburl={&lt;a href=&#34;http://dblp.uni-trier.de/rec/bib/conf/and/2010&#34;&gt;http://dblp.uni-trier.de/rec/bib/conf/and/2010&lt;/a&gt;},
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DBLP-conf-and-PackerLSERSJ10</title>
+      <link>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-and-PackerLSERSJ10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-and-PackerLSERSJ10/</guid>
+      <description>&lt;p&gt;@inproceedings{DBLP:conf/and/PackerLSERSJ10,
+   booktitle={Proceedings of the Fourth Workshop on Analytics for Noisy Unstructured
+Text Data, {AND} 2010, Toronto, Ontario, Canada, October 26th, 2010
+(in conjunction with {CIKM} 2010)},
+   crossref={DBLP:conf/and/2010},
+   link={&lt;a href=&#34;http://doi.acm.org/10.1145/1871840.1871845&#34;&gt;http://doi.acm.org/10.1145/1871840.1871845&lt;/a&gt;},
+   timestamp={Thu, 16 Dec 2010 13:35:06 +0100},
+   author={Thomas L. Packer and
+Joshua F. Lutes and
+Aaron P. Stewart and
+David W. Embley and
+Eric K. Ringger and
+Kevin D. Seppi and
+Lee S. Jensen},
+   biburl={&lt;a href=&#34;http://dblp.uni-trier.de/rec/bib/conf/and/PackerLSERSJ10&#34;&gt;http://dblp.uni-trier.de/rec/bib/conf/and/PackerLSERSJ10&lt;/a&gt;},
+   pages={19&amp;ndash;26},
+   doi={10.&lt;sup&gt;1145&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1871840&lt;/sub&gt;.1871845},
+   bibsource={dblp computer science bibliography, &lt;a href=&#34;http://dblp.org&#34;&gt;http://dblp.org&lt;/a&gt;},
+   year={2010},
+   title={Extracting person names from diverse and noisy {OCR} text},
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DBLP-conf-cdc-2015</title>
+      <link>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cdc-2015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cdc-2015/</guid>
+      <description>&lt;p&gt;@proceedings{DBLP:conf/cdc/2015,
+   publisher={IEEE},
+   link={&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7396016&#34;&gt;http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7396016&lt;/a&gt;},
+   isbn={978-1-4799-7886-1},
+   bibsource={dblp computer science bibliography, &lt;a href=&#34;http://dblp.org&#34;&gt;http://dblp.org&lt;/a&gt;},
+   year={2015},
+   title={54th {IEEE} Conference on Decision and Control, {CDC} 2015, Osaka, Japan, December 15-18, 2015},
+   timestamp={Thu, 18 Feb 2016 14:14:07 +0100},
+   biburl={&lt;a href=&#34;http://dblp.uni-trier.de/rec/bib/conf/cdc/2015&#34;&gt;http://dblp.uni-trier.de/rec/bib/conf/cdc/2015&lt;/a&gt;},
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DBLP-conf-cdc-BaiCYIBSA15</title>
+      <link>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cdc-BaiCYIBSA15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cdc-BaiCYIBSA15/</guid>
+      <description>&lt;p&gt;@inproceedings{DBLP:conf/cdc/BaiCYIBSA15,
+   booktitle={54th {IEEE} Conference on Decision and Control, {CDC} 2015, Osaka, Japan, December 15-18, 2015},
+   crossref={DBLP:conf/cdc/2015},
+   link={&lt;a href=&#34;https://doi.org/10.1109/CDC.2015.7402558&#34;&gt;https://doi.org/10.1109/CDC.2015.7402558&lt;/a&gt;},
+   timestamp={Fri, 19 May 2017 01:00:00 +0200},
+   author={He Bai and
+Kevin Cook and
+Huili Yu and
+Kyle Ingersoll and
+Randy Beard and
+Kevin D. Seppi and
+Sharath Avadhanam},
+   biburl={&lt;a href=&#34;http://dblp.uni-trier.de/rec/bib/conf/cdc/BaiCYIBSA15&#34;&gt;http://dblp.uni-trier.de/rec/bib/conf/cdc/BaiCYIBSA15&lt;/a&gt;},
+   pages={2347&amp;ndash;2352},
+   doi={10.1109/CDC.2015.7402558},
+   bibsource={dblp computer science bibliography, &lt;a href=&#34;http://dblp.org&#34;&gt;http://dblp.org&lt;/a&gt;},
+   year={2015},
+   title={Improving cooperative tracking of an urban target with target motion
+model learning},
 }&lt;/p&gt;
 </description>
     </item>

@@ -1,0 +1,23 @@
++++
+title = "DBLP-conf-lrec-FeltMCRLSH10"
++++
+
+@inproceedings{DBLP:conf/lrec/FeltMCRLSH10,
+   booktitle={Proceedings of the International Conference on Language Resources
+and Evaluation, {LREC} 2010, 17-23 May 2010, Valletta, Malta},
+   crossref={DBLP:conf/lrec/2010},
+   biburl={http://dblp.uni-trier.de/rec/bib/conf/lrec/FeltMCRLSH10},
+   link={http://www.lrec-conf.org/proceedings/lrec2010/summaries/360.html},
+   timestamp={Wed, 02 Jun 2010 19:27:18 +0200},
+   bibsource={dblp computer science bibliography, http://dblp.org},
+   year={2010},
+   title={{CCASH:} {A} Web Application Framework for Efficient, Distributed
+Language Resource Development},
+   author={Paul Felt and
+Owen Merkling and
+Marc Carmen and
+Eric K. Ringger and
+Warren Lemmon and
+Kevin D. Seppi and
+Robbie Haertel},
+}

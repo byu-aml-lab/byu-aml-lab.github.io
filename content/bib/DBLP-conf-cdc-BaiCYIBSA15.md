@@ -1,0 +1,24 @@
++++
+title = "DBLP-conf-cdc-BaiCYIBSA15"
++++
+
+@inproceedings{DBLP:conf/cdc/BaiCYIBSA15,
+   booktitle={54th {IEEE} Conference on Decision and Control, {CDC} 2015, Osaka, Japan, December 15-18, 2015},
+   crossref={DBLP:conf/cdc/2015},
+   link={https://doi.org/10.1109/CDC.2015.7402558},
+   timestamp={Fri, 19 May 2017 01:00:00 +0200},
+   author={He Bai and
+Kevin Cook and
+Huili Yu and
+Kyle Ingersoll and
+Randy Beard and
+Kevin D. Seppi and
+Sharath Avadhanam},
+   biburl={http://dblp.uni-trier.de/rec/bib/conf/cdc/BaiCYIBSA15},
+   pages={2347--2352},
+   doi={10.1109/CDC.2015.7402558},
+   bibsource={dblp computer science bibliography, http://dblp.org},
+   year={2015},
+   title={Improving cooperative tracking of an urban target with target motion
+model learning},
+}

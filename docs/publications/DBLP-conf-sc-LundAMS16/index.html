@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en-us"}>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="generator" content="Hugo 0.16-DEV" />
+  <title>Mrs: High Performance MapReduce for Iterative and Asynchronous Algorithmsin Python</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://byu-aml-lab.github.io/lab-website/css/main.css">
+</head>
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="page-scroll navbar-brand" href="https://byu-aml-lab.github.io/lab-website/">BYU Applied Machine Learning Laboratory</a>
+      </div>
+      <div class="collapse navbar-collapse" id="navbar">
+        <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="https://byu-aml-lab.github.io/lab-website/about">About</a></li>
+        
+        <li><a href="https://byu-aml-lab.github.io/lab-website/people">People</a></li>
+        
+        <li><a href="https://byu-aml-lab.github.io/lab-website/publications">Publications</a></li>
+        
+        <li><a href="https://byu-aml-lab.github.io/lab-website/projects">Projects</a></li>
+        
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+
+
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <h1>Mrs: High Performance MapReduce for Iterative and Asynchronous Algorithmsin Python</h1>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    
+    <a href="https://byu-aml-lab.github.io/lab-website/people/jefflund/">Jeffrey Lund</a>
+    
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    
+    Chace Ashcraft
+    
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    
+    Andrew W. McNabb
+    
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    
+    Kevin D. Seppi
+    
+  </div>
+</div>
+
+
+
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <h3>Abstract</h3>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <p>Mrs is a lightweight Python-based MapReduce implementation designed to make MapReduce programs easy to write and quick to run, particularly useful for research and academia. A common set of algorithms that would benefit from Mrs are iterative algorithms, like those frequently found in machine learning; however, iterative algorithms typically perform poorly in the MapReduce framework, meaning potentially poor performance in Mrs as well. Therefore, we propose four modifications to the original Mrs with the intent to improve its ability to perform iterative algorithms. First, we used direct task-to-task communication for most iterations and only occasionally write to a distributed file system to preserve fault tolerance. Second, we combine the reduce and map tasks which span successive iterations to eliminate unnecessary communication and scheduling latency. Third, we propose a generator-callback programming model to allow for greater flexibility in the scheduling of tasks. Finally, some iterative algorithms are naturally expressed in terms of asynchronous message passing, so we propose a fully asynchronous variant of MapReduce. We then demonstrate Mrs&rsquo; enhanced performance in the context of two iterative applications: particle swarm optimization (PSO), and expectation maximization (EM).</p>
+
+  </div>
+</div>
+
+
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    
+    <a href="https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-sc-LundAMS16">[Bibtex]</a>
+    
+    
+  </div>
+</div>
+
+</div>
+</body>
+</html>
+

@@ -7,11 +7,111 @@
   </url>
   
   <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/1309134/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-ipps-2005/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cvpr-2009/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-sc-2012c/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-smc-2014/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-swis-2014/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-iros-2016/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-acsd-2004/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cdc-2015/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-sc-2016pyhpc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/7294706/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-journals-informs-SeppiBM93/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-icmla-CarrollS04/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-journals-ec-MonsonS08/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/doi-10.1162-evco.2008.16.3.289/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/7294706/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-emnlp-McClanahanBHHLSR10/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cec-MonsonSC07/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-journals-swarm-GardnerMS12/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/Gardner2012/</loc>
+  </url>
+  
+  <url>
     <loc>https://byu-aml-lab.github.io/lab-website/about/</loc>
   </url>
   
   <url>
-    <loc>https://byu-aml-lab.github.io/lab-website/publications/bigwidgets/</loc>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-gecco-MonsonS06/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-acllaw-HaertelRSF15/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cec-McNabbGS09/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-lrec-RinggerCHSLMCE08/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-acl-HaertelRSCM08/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-gecco-MonsonS05/</loc>
   </url>
   
   <url>
@@ -19,7 +119,615 @@
   </url>
   
   <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-swis-MonsonS14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/Cook2014/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-ijcnn-TranGSW06/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acl-2008s/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acl-2016-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acl-HaertelRSCM08/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acl-Poursabzi-Sangdeh16/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acllaw-2015/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acllaw-HaertelRSF15/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acsd-2004/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-acsd-SeppiJL04/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-and-2010/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-and-PackerLSERSJ10/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cdc-2015/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cdc-BaiCYIBSA15/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cec-2005/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cec-2006/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cec-2007/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cec-2009/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cec-2011/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cec-2014/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cec-McNabbGS09/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cec-McNabbMS07/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cec-McNabbS14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cec-MonsonS05/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cec-MonsonSC07/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cec-MullenMSW06/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cec-WilcoxMS11/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-chi-2016/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-chi-2017a/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-chi-JonesDAS17/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-chi-JonesSO16/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-coling-2016/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-coling-FeltRS16/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-coling-LundFSR16/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-conll-2015/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-conll-FeltRBS15/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cvpr-2009/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-cvpr-TorontoMSV09/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-drr-2013/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-drr-WalkerRS13/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-emnlp-2010/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-emnlp-McClanahanBHHLSR10/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-gecco-2004-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-gecco-2005/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-gecco-2006/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-gecco-2007/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-gecco-2014c/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-gecco-2015/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-gecco-McNabbMS07/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-gecco-MonsonS04/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-gecco-MonsonS05/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-gecco-MonsonS05a/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-gecco-MonsonS06/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-gecco-MonsonS14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-gecco-YiSG15/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-gldv-2013/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-gldv-HansenRS13/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-hri-2016/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-hri-YiGS16/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-icip-2007/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-icip-TorontoMVS07/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-icml-2004/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-icml-WingateS04/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-icmla-2003/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-icmla-2004/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-icmla-CarrollPS03/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-icmla-CarrollS04/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-icmla-MonsonWSP04/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-icmla-WingateS03/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-ijcai-2015/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-ijcai-YiGS15/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-ijcnn-2006/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-ijcnn-2011/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-ijcnn-MonteithCSM11/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-ijcnn-TranGSW06/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-ipps-2005/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-ipps-WingatePSS05/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-iros-2016/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-iros-YiHGS16/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-lrec-2008/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-lrec-2010/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-lrec-2012/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-lrec-2014/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-lrec-BlackRFSHL14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-lrec-CarmenFHLMMRS10/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-lrec-FeltHRS14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-lrec-FeltMCRLSH10/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-lrec-FeltRSH14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-lrec-FeltRSHHL12/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-lrec-RinggerCHSLMCE08/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-naacl-2015/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-naacl-FeltBRSH15/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-naacl-NguyenBLSR15/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-ppsn-2010-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-ppsn-2012-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-ppsn-GardnerMS10/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-ppsn-McNabbS12/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-sc-2012c/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-sc-2016pyhpc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-sc-LundAMS16/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-sc-McNabbLS12/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-smc-2014/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-smc-YiGS14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-swis-2014/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-swis-MonsonS14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-uai-2012bma/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-conf-uai-WalkerRS12/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-journals-ec-MonsonS08/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-journals-fuin-SeppiJL06/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-journals-ijbra-MechamCSFSC06/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-journals-informs-SeppiBM93/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-journals-jirs-CookBYBSB14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-journals-jmlr-WingateS05/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-journals-lre-FeltRSHHL14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/DBLP-journals-swarm-GardnerMS12/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-drr-2013/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-naacl-FeltBRSH15/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-icmla-WingateS03/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-lrec-BlackRFSHL14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-journals-lre-FeltRSHHL14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/Felt2014/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-drr-WalkerRS13/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-gecco-MonsonS05a/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-iros-YiHGS16/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-and-PackerLSERSJ10/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-coling-LundFSR16/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/Felt2014/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-lrec-FeltRSHHL12/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/yuret1994genetic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/Gardner2012/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-gecco-2004-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-gecco-2014c/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-gecco-2005/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-gecco-2006/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-gecco-2007/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-acsd-SeppiJL04/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-journals-fuin-SeppiJL06/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/Seppi-2006-GMC-2367636.2367641/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/1309134/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-hri-YiGS16/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/smith2016human/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cdc-BaiCYIBSA15/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-smc-YiGS14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-gecco-YiSG15/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/yi2015input/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/Cook2014/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-journals-jirs-CookBYBSB14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-naacl-NguyenBLSR15/</loc>
+  </url>
+  
+  <url>
     <loc>https://byu-aml-lab.github.io/lab-website/people/jefflund/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/clement2004jumpstarting/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-journals-ijbra-MechamCSFSC06/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/mecham2006jumpstarting/</loc>
   </url>
   
   <url>
@@ -27,11 +735,315 @@
   </url>
   
   <url>
-    <loc>https://byu-aml-lab.github.io/lab-website/publications/tandemanchors/</loc>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-gldv-2013/</loc>
   </url>
   
   <url>
-    <loc>https://byu-aml-lab.github.io/lab-website/bib/asdf/</loc>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/Lee201728/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cec-MonsonS05/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-ijcai-YiGS15/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-icml-2004/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-conll-FeltRBS15/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-lrec-FeltHRS14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-sc-LundAMS16/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-sc-McNabbLS12/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-ppsn-2010-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-ppsn-2012-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cec-McNabbMS07/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cec-MullenMSW06/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-journals-jmlr-WingateS05/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/wingate2005prioritization/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-ipps-WingatePSS05/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-gldv-HansenRS13/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-acllaw-2015/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-conll-2015/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-icmla-2003/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-icmla-2004/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-emnlp-2010/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-chi-2016/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-chi-2017a/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-acl-2016-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-lrec-2012/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-and-2010/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-gecco-2015/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-icip-2007/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-lrec-2008/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-lrec-2010/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-ijcnn-2006/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-lrec-2014/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-uai-2012bma/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-ijcai-2015/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cec-2005/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cec-2007/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cec-2009/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cec-2011/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cec-2014/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-icmla-CarrollPS03/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-coling-FeltRS16/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/Seppi-2006-GMC-2367636.2367641/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cec-McNabbS14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/doi-10.1287-ijoc.5.4.410/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cec-WilcoxMS11/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-ppsn-GardnerMS10/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cvpr-TorontoMSV09/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-lrec-CarmenFHLMMRS10/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-ijcnn-2011/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-ppsn-McNabbS12/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-hri-2016/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-icip-TorontoMVS07/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-gecco-MonsonS04/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/Lee201728/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-uai-WalkerRS12/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-ijcnn-MonteithCSM11/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-gecco-MonsonS14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-lrec-FeltRSH14/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-icmla-MonsonWSP04/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-chi-JonesSO16/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/clement2004jumpstarting/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/doi-10.1162-evco.2008.16.3.289/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/doi-10.1287-ijoc.5.4.410/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/mecham2006jumpstarting/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/smith2016human/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/wingate2005prioritization/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/yi2015input/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/bib/yuret1994genetic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-acl-2008s/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-acl-Poursabzi-Sangdeh16/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-lrec-FeltMCRLSH10/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-coling-2016/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-cec-2006/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-gecco-McNabbMS07/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-naacl-2015/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-icml-WingateS04/</loc>
+  </url>
+  
+  <url>
+    <loc>https://byu-aml-lab.github.io/lab-website/publications/DBLP-conf-chi-JonesDAS17/</loc>
   </url>
   
 </urlset>
