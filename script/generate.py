@@ -45,7 +45,7 @@ def main():
     script_dir = os.path.dirname(__file__)
     content_dir = os.path.join(os.path.dirname(script_dir), 'content')
 
-    bib = bibtexparser.load(open(os.path.join(script_dir, 'seppi.bib')))
+    bib = bibtexparser.load(open(os.path.join(script_dir, 'aml.bib')))
     for entry in bib.entries:
         name = entry['ID'].replace('/', '-').replace(':', '-')
 
